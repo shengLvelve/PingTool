@@ -9,7 +9,7 @@
 
 
 
-## -domainsInput
+##### \[-domainsInput] <String>
 
 
 
@@ -18,7 +18,7 @@
 
 
 
-### -watchTime
+##### \[-watchTime] <Int32>
 
 
 
@@ -27,7 +27,7 @@
 
 
 
-### -sleepTime
+##### \[-sleepTime] <Int32>
 
 
 
@@ -36,7 +36,7 @@
 
 
 
-### -delimiter
+##### \[-delimiter] <String>
 
 
 
@@ -45,7 +45,7 @@
 
 
 
-### -displayMode
+##### \[-displayMode] <String>
 
 
 
@@ -54,7 +54,7 @@
 
 
 
-##### eg、log模式
+###### eg、log模式
 
 
 
@@ -63,7 +63,7 @@ date-mm-dd|ti:me:ti.mee|Source|Port|Latency|Connected|Status|Target|TargetAddres
 
 
 
-##### eg、latencyList模式
+###### eg、latencyList模式
 
 
 
@@ -90,5 +90,7 @@ date-mm-dd|ti:me:ti.mee|Source|Port|Latency|Connected|Status|Target|TargetAddres
 
 
 
-V0.0.2  2025/12/30
+##### V0.0.2 
+
+&nbsp;2025/12/30
 
