@@ -14,6 +14,7 @@
 
 
 进行测试的地址列表，字符串类型。值可填写IP地址以及域名，使用【,】连接。eg、-domainsInput "192.168.18.1,baidu.com,wechat.com,bilibili.com,google.com"
+
 默认值为"192.168.18.1,192.168.31.1,baidu.com,wechat.com,bilibili.com,google.com"
 
 
@@ -23,6 +24,7 @@
 
 
 监测次数，int类型。eg、-watchTime 65535
+
 默认值为65535
 
 
@@ -32,6 +34,7 @@
 
 
 每轮测试结束后的休眠时间（单位为秒），int类型。eg、-sleepTime 0
+
 默认值为0
 
 
@@ -41,6 +44,7 @@
 
 
 控制台输出以及文件输出时的分隔符，字符串类型。eg、-delimiter "|"
+
 默认值为“|”
 
 
@@ -50,6 +54,7 @@
 
 
 控制台输出模式，可选“log”、“latencyList”，各模式显示效果如下。
+
 默认值为latencyList
 
 
